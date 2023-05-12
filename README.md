@@ -12,7 +12,7 @@ This script can be automatically generate something what you needed every day.
 - [`adlist/adlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adlist/adlist.txt)
 - [`adblock/adblock.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adblock/adblock.conf)
 - [`chnroute/chnroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute.txt)
-- [`chnroute/chnroute-v6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute-v6.txt)
+- [`chnroute/chnroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute6.txt)
 - [`chinalist/chinalist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt)
 - [`gfwlist/gfwlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt)
 - [`pac/gfwlist.pac`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/gfwlist.pac)
@@ -66,7 +66,7 @@ This script can be automatically generate something what you needed every day.
 ## 📝 License
 
 ```
-Copyright (C) 2018-2022, pexcn <i@pexcn.me>
+Copyright (C) 2018-2023, pexcn <pexcn97@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
