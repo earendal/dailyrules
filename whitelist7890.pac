@@ -30,6 +30,7 @@ const gfwlist_domains = {
   "spotify.com": 1,
   "jsdelivr.net": 1,
   "cdninstagram.com": 1,
+  "cnbeta.com.tw": 1,
   "ampproject.org": 1,
   "gmail.com": 1,
   "pinterest.com": 1,
